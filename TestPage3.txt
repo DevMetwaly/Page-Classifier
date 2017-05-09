@@ -1,0 +1,193 @@
+Bloomberg the Company & Its ProductsBloomberg Anywhere Remote LoginBloomberg Terminal Demo Request
+
+
+
+Markets
+Stocks
+Currencies
+Commodities
+Rates + Bonds
+Economics
+Magazine
+Benchmark
+Watchlist
+Economic Calendar
+Regional Overview
+Stocks
+Stock Futures
+Gainers + Losers
+Company Profiles
+Earnings Calendar
+INDU:IND
+Dow Jones Indus. Avg
+-0.11 %
+18,141.75 -19.44
+SPX:IND
+S&P 500
++0.02 %
+2,126.76 +0.35
+UKX:IND
+FTSE 100
+-0.60 %
+6,954.22 -42.04
+NKY:IND
+Nikkei 225
+-0.12 %
+17,425.02 -21.39
+Tech
+U.S.
+Global
+Startups
+Cybersecurity
+Digital Media
+Bloomberg Technology TV
+Hello World
+Studio 1.0
+Thiel Defends Trump Support, Says U.S. Needs Outsider President
+Postmates Secures $141 Million in a ‘Super, Super Difficult’ Fundraising Effort
+Brocade Communications in Advanced Talks to Sell Itself
+Microsoft Gives Away New Server Design Aimed at Speeding Global Cloud Setup
+Study Finds Racial Discrimination by Uber and Lyft Drivers
+Pursuits
+Cars & Bikes
+Style & Grooming
+Spend
+Watches & Gadgets
+Food & Drinks
+Travel
+Real Estate
+Art & Design
+Mercedes-Benz Starts Luxury Pickups for Adventurers, Rich Dads
+Why Did Lamborghini Give Marvel a Hurac?n to Destroy in Dr. Strange?
+Tesla Says Newly Reserved Model 3 Delivery to Start Mid-2018
+Why the BMW R NineT Scrambler Is Better Than Its Pricier Predecessor
+Wayne’s World AMC Pacer, the Mirthmobile, Is for Sale
+Politics
+With All Due Respect
+Poll Decoder
+Culture Caucus Podcast
+Masters In Politics Podcast
+Ad Tracker
+Battlegrounds 2016
+ With All Due Respect: Best of the Week (10/30/16)
+ GOP Strategist Mike Murphy: Kellyanne Conway Should Hood Donald Trump Like a Falcon
+ Full Show: With All Due Respect (10/28/16)
+ Trump Campaign Manager Kellyanne Conway Denies Voter Suppression Efforts
+ Kellyanne Conway: James Comey 'Did the Right Thing'
+Opinion
+View
+Gadfly
+Editorials
+Columnists
+Topics
+QuickTake
+Why Bettors Take a Flier on Trump
+Tough(ish) Times for the People of Washington
+Climate Change Is Already Forcing Americans to Move
+The 10 Things We Fear in Markets
+Businessweek
+Subscribe
+Cover Stories
+Opening Remarks
+Etc
+Features
+85th Anniversary Issue
+Behind The Cover
+Bezos Rocket Company Is a New Leader in the Suborbital Space Race
+When Spotting a Hack Doesn’t Help You
+The Border Patrol Wants to Buy American
+What Glenn Beck Really Believes About Donald Trump
+EY Created Facebook’s Tax Plan. And Lo, It Was Good, Declared EY
+Sign In
+Subscribe
+
+How Intel Makes a Chip
+The development of a microprocessor is one of the riskiest, costliest, and most technically complex feats in business.
+ Max Chafkin   Ian King  
+  Bloomberg Businessweek Subscribe Reprints
+June 9, 2016 — 11:02 AM EET
+Share on FacebookShare on Twitter 
+Pause
+Mute
+Current Time 0:01
+/
+Duration Time 3:11
+Loaded: 0%Progress: 0%
+ 
+
+Fullscreen
+Inside Intel's Chip Factory
+Don't Miss Out — Follow Bloomberg On
+Facebook	Twitter	Instagram	YouTube
+Recommended
+Bloomberg Photo Service 'Best of the Week': The GE company logo sits on an employee's overalls as he secures a metal cable to a section of a subsea oil and gas tree, at the General Electric Co. (GE) plant in Montrose, U.K., on Wednesday, Dec. 11, 2013. General Electric Co. (GE) is in talks to buy Alstom SA, the French builder of trains and power plants, people with knowledge of the matter said, in what would be GE's biggest acquisition ever. Photographer: Simon Dawson/Bloomberg
+GE Creates $32 Billion Oil-Services Giant With Baker Hughes Deal
+Diners sit at a food court in the Tanjong Pagar district of Singapore, on Tuesday, March 24, 2015. Countries around the world have lavished praise on the Singapore Model -- a state ruled by a single party, defined by robust economic growth, low crime and startling cleanliness -- that brought international renown to Lee Kuan Yew, who died Monday. Photographer: Sanjit Das/Bloomberg
+Why Singapore Wants Its Food Courts to Be Run by Machines, Not People
+A 50 subject one dollar note sheets sits on an inspecting table after being printed by an intaglio printing press at the U.S. Bureau of Engraving and Printing in Washington, D.C., U.S., on Tuesday, April 14, 2015. Republican efforts to pass a fiscal year 2016 budget cleared another hurdle as the House named its members to a conference committee and Senate Majority Leader Mitch McConnell pledged to do the same by the end of the week. Photographer: Andrew Harrer/Bloomberg
+Banks Are Hoarding $2.4 Trillion of Bonds
+
+ Tesla's Sexy Solar, Massive Batteries and Fast Cars
+Share on Facebook
+Share on Twitter
+Before entering the cleanroom in D1D, as Intel calls its 17 million-cubic-foot microprocessor factory in Hillsboro, Oregon, it’s a good idea to carefully wash your hands and face. You should probably also empty your bladder. There are no bathrooms in the cleanroom. Makeup, perfume, and cosmetics are forbidden. Writing instruments are allowed, as long as they’re special sterile pens; paper, which sheds microscopic particles, is absolutely banned. If you want to write on something, you’ll have to use what is known in the industry as “high-performance documentation material,” a paperlike product that doesn’t release fibers.
+After you put on a hairnet, your next stop is the gowning station, inside a pressurized room that sits between the outside world and the cleanroom itself. A hard breeze, sent by a cleaning system that takes up the equivalent of four and a half football fields, hits you as you walk in, removing stray matter—dust, lint, dog hairs, bacteria. You put on pre-gown gloves, then a white bodysuit with a hood and surgical-style mouth cover, followed by a second pair of gloves, a second pair of shoe covers, and safety glasses. None of these measures are for your safety; they protect the chips from you.
+The air in the cleanroom is the purest you’ve ever breathed. It’s class 10 purity, meaning that for every cubic foot of air there can be no more than 10 particles larger than half a micron, which is about the size of a small bacteria. In an exceptionally clean hospital OR, there can be as many as 10,000 bacteria-size particles without creating any special risk of infection. In the outside world, there are about 3 million.
+The cleanroom is nearly silent except for the low hum of the “tools,” as Intel calls them, which look like giant copy machines and cost as much as $50 million each. They sit on steel pedestals that are attached to the building’s frame, so that no vibrations—from other tools, for instance, or from your footfalls—will affect the chips. You step softly even so. Some of these tools are so precise they can be controlled to within half a nanometer, the width of two silicon atoms.
+It’s surprisingly dark, too. For decades, Intel’s cleanrooms have been lit like darkrooms, bathed in a deep, low yellow. “That’s an anachronism,” says Mark Bohr, a small, serious man who has spent his entire 38-year career making chips, and who’s now Intel’s top manufacturing scientist. “Nobody’s had the courage to change it.”
+Chips are made by creating tiny patterns on a polished 12-inch silicon disk, in part by using a process called photolithography and depositing superthin layers of materials on top. These wafers are kept in sealed, microwave oven-size pods called “foups” that are carried around by robots—hundreds of robots, actually—running on tracks overhead, taking the wafers to various tools. The air inside a foup is class 1, meaning it probably contains no particles at all. Periodically, the wafer is washed using a form of water so pure it isn’t found in nature. It’s so pure it’s lethal. If you drank enough of it, it would pull essential minerals out of your cells and kill you.
+Over the next three months—three times the amount of time it takes Boeing to manufacture a single Dreamliner—these wafers will be transformed into microprocessors. They’ll make their way through more than 2,000 steps of lithography, etching, material application, and more etching. Each will then be chopped up into a hundred or so thumbnail-size “dies,” each of which will be packaged in a ceramic enclosure. If everything functions properly, none of the 100,000 or so people who work at Intel will ever touch them. The endpoint of this mechanized miracle: the Intel Xeon E5 v4, the company’s latest server chip and the engine of the internet.
+“If you need short-term gratification, don’t be a chip designer”
+
+ 
+ 
+Intel rarely talks about how it creates a new chip. When Bloomberg Businessweek visited the Hillsboro fab in May, we were given the most extensive tour of the factory since President Obama visited in 2011. The reticence is understandable, considering that the development and manufacture of a new microprocessor is one of the biggest, riskiest bets in business. Simply building a fab capable of producing a chip like the E5 costs at least $8.5 billion, according to Gartner, and that doesn’t include the costs of research and development ($2 billion-plus) or of designing the circuit layout (more than $300 million). Even modest “excursions”—Intel’s euphemism for screw-ups—can add hundreds of millions of dollars in expense. The whole process can take five years or more. “If you need short-term gratification, don’t be a chip designer,” says Pat Gelsinger, chief executive of VMware and a longtime Intel executive who most recently served as the company’s chief technology officer. “There are very few things like it.”
+A top-of-the-line E5 is the size of a postage stamp, retails for $4,115, and uses about 60 percent more energy per year than a large Whirlpool refrigerator. You use them whenever you search Google, hail an Uber, or let your kids stream Episode 3 of Unbreakable Kimmy Schmidt in your car. These feats of computer science are often attributed to the rise of the smartphone, but the hard work is being done on thousands of servers. And pretty much all of those servers run on Intel chips.
+Intel, based in Santa Clara, Calif., created the first microprocessor in 1971 and, under the leadership of Andy Grove, became a household name in the 1990s, selling the chips that ran most personal computers. But PC sales have fallen over the past five years with the rise of smartphones, and Intel was slow to develop lower-power chips suited for those devices. The company recently announced layoffs of 11 percent of its workforce, as CEO Brian Krzanich puts it, to “reinvent ourselves.”
+
+Intel is still the world’s largest chipmaker, and it sells 99 percent of the chips that go into servers, according to research firm IDC. Last year its data center group had revenue of about $16 billion, nearly half of which was profit. This dominance is the result of competitors’ failings and Intel’s willingness to spend whatever it must to ensure large, predictable improvements to its products, every single year. “Our customers expect that they will get a 20 percent increase in performance at the same price that they paid last year,” says Diane Bryant, an Intel executive vice president and general manager of the company’s data center business. “That’s our mantra.”
+In PCs and phones, this strategy has its limits: Consumers simply don’t care that much about speed and efficiency beyond a certain point. But in servers, where data centers run by such companies as Amazon.com and Microsoft compete for the right to handle data for the Netflixes and Ubers of the world, performance is paramount. The electricity needed to run and cool servers is by far the biggest expense at the average server farm. If Intel can deliver more computing power for the same amount of electricity, data center owners will upgrade again and again.
+There’s a lot riding on that “if.” Each year, Intel’s executives essentially bet the company on the notion that they can keep pushing the limits of circuits, electronics, and silicon atoms, spending billions long before they turn a profit. Eventually chips will go the way of incandescent lightbulbs, passenger jets, and pretty much every other invention as it ages; the pace of improvement will slow dramatically. “There will be a point where silicon technology gets like that, but it’s not in the next couple of decades,” Krzanich says confidently. “Our job is to push that point to the very last minute.”
+ 
+ 
+
+Microprocessors are everywhere. They’re in your TV, car, Wi-Fi router, and, if they’re new enough, your refrigerator and thermostat. Internet-connected lightbulbs and some running shoes have chips. Even if you don’t think of them that way, these devices are in a sense computers, which means they’re made of transistors.
+A transistor is a switch. But instead of requiring a finger to turn it on or off, it uses small electrical pulses—3 billion per second in the case of a powerful computer. What can you do with a switch? Well, you can use it to store exactly one bit of information. On or off, yes or no, 0 or 1—these are examples of data that can be conveyed in a single bit, which is, believe it or not, a technical term. (There are 8 bits in a byte, 8 billion in a gigabyte.) The earliest computers stored bits in punch cards—hole or no hole?—but that was limiting, because if you want to do anything cool, you need a lot of bits. For instance, if you want your computer to store the words “God, this stuff is complicated,” it would need 8 bits for every letter, or 240 transistors. Another thing you can do with a switch is math. String seven switches together in just the right order, and you can add two small numbers; string 29,000 of them, and you have the chip that powered the original IBM PC in 1981; pack 7.2 billion on an E5, and you can predict global weather patterns, sequence a human genome, and identify oil and gas deposits under the ocean floor.
+Every three years or so, Intel shrinks the dimensions of its transistors by about 30 percent. It went from 32-nanometer production in 2009 to 22nm in 2011 to 14nm in late 2014, the state of the art. Each of those jumps to smaller switches means chip designers can cram about twice as many into the same area. This phenomenon is known as Moore’s Law, and it has, for half a century, ensured that the chip you buy three years from now will be at least twice as good as the one you buy today.
+
+The latest Xeon chips take advantage of research that began in the 1990s, when Bohr’s team in Oregon began trying to deal with quantum tunneling, or the tendency of electrons to jump through very small transistors, even when they’re switched off. It was the latest front in Intel’s ongoing war with physics. It had been conventional wisdom that once silicon transistors shrunk to below 65nm, they’d stop working properly. Bohr’s solution, unveiled in 2007, was to coat parts of the transistor with hafnium, a silvery metal not found in nature, and then, starting in 2011, to build transistors into little towers known as fin-shaped field effect transistors, or FinFETs. “Our first FinFET, instead of being narrow and straight, it was more of a trapezoid,” Bohr says with a hint of disappointment—trapezoidal fins take up more room than rectangular ones. “These are thinner and straighter,” he says proudly, gesturing at a recent photograph, taken with an electron microscope, that shows two stock-straight black shadows resting eerily on a grayish base. The images look like dental X-rays. Intel people call them “baby pictures.”
+Shrinking the transistors is only part of the challenge. Another is managing an ever more complex array of interconnects, the crisscrossing filaments that link the transistors to one another. The Xeon features 13 layers of copper wires, some thinner than a single virus, made by etching tiny lines into an insulating glass and then depositing metal in the slots. Whereas transistors have tended to get more efficient as they’ve shrunk, smaller wires by their nature don’t. The smaller they are, the less current they carry.
+The man in charge of the Xeon E5’s wiring is Kevin Fischer, a midlevel Intel engineer who sat down in his Oregon lab in early 2009 with a simple goal: Fix the conductivity of two of the most densely packed layers of wires, known as Metal 4 and Metal 6. Fischer, 45, who has a Ph.D. in electrical engineering from the University of Wisconsin at Madison, started the way Intel researchers usually do, by scouring the academic literature. Intel already used copper, one of the most conductive metals, so he decided to focus on improving the insulators, or dielectrics, which tend to slow down the current moving through the wires. One option would be to use new insulators that are spongier and thus create less drag. But Fischer suggested replacing the glass with nothing at all. “Air is the ultimate dielectric,” he says, as if stunned by the elegance of his solution. The idea worked. Metal layers 4 and 6 now move 10 percent faster.
+“It’s like you’ve finished a puzzle, and now you come and tell me I need to add 10 more pieces”
+Chip design is mostly a layout problem. “It’s kind of like designing a city,” says Mooly Eden, a retired Intel engineer who ran the company’s PC division. But the urban-planning analogy may undersell the difficulty. A chip designer must somehow fit the equivalent of the world’s population into 1 square inch—and arrange everything in such a way that the computer has access to each individual transistor 3 billion times per second.
+The building blocks of a chip are memory controllers, cache, input/output circuits, and, most important of all, cores. On the Pentium III chip you owned in the late 1990s, the core and the chip were more or less one and the same, and chips generally got better by increasing the clock rate—the number of times per second the computer can switch its transistors on and off. A decade ago, clock rates maxed out at about 4 gigahertz, or 4 billion pulses per second. If chips were to cycle any faster, the silicon transistors would overheat and malfunction. The chip industry’s answer was to start adding cores, essentially little chips within the chip, which can run simultaneously, like multiple outboard motors on a speedboat. The plan for the new E5 called for up to 22 of them, six more than the previous version, which would be designed at Intel’s development center in Haifa, Israel.
+Another way to make a chip faster is to add special circuits that only do one thing, but do it extremely quickly. Roughly 25 percent of the E5’s circuits are specialized for, among other tasks, compressing video and encrypting data. There are other special circuits on the E5, but Intel can’t talk about those because they’re created for its largest customers, the so-called Super 7: Google, Amazon, Facebook, Microsoft, Baidu, Alibaba, and Tencent. Those companies buy—and often assemble for themselves—Xeon-powered servers by the hundreds of thousands. If you buy an off-the-shelf Xeon server from Dell or HP, the Xeon inside will contain technology that’s off-limits to you. “We’ll integrate [a cloud customer’s] unique feature into the product, as long as it doesn’t make the die so much bigger that it becomes a cost burden for everyone else,” says Bryant. “When we ship it to Customer A, he’ll see it. Customer B has no idea that feature is there.”
+It takes a year for Intel’s architects—the most senior designers, who work closely with customers as well as researchers in Oregon—to produce a spec, a several-thousand-page document that explains the chip’s functions in extreme detail. It takes an additional year and a half to translate the spec into a kind of software code composed of basic logic instructions such as AND, OR, and NOT, and then translate that into a schematic showing the individual circuits. The final and most labor-intensive part of this process, mask design, involves figuring out how to cram the circuits into a physical layout. The layout is eventually transferred onto masks, the stencils used to burn tiny patterns on the silicon wafer and ultimately make a chip. For the E5, mask designers based in Bangalore, India, and Fort Collins, Colo., used a computer-aided design program to draw polygons to represent each transistor, or copied in previously drawn circuit designs from a sort of digital library. “You have to have the ability to visualize what you’re working on in 3D,” says Corrina Mellinger, a veteran Intel mask designer.
+Unlike most of the technical jobs at Intel, mask design doesn’t require an advanced degree in engineering. The work is learned as a trade; Mellinger took a single class in chip layout at a community college after joining Intel in 1989 as an administrative assistant. The final few weeks of a mask design are always the most intense, as designers continually update their work to accommodate last-minute additions to the layout. “It never fits at first,” says Patricia Kummrow, an Intel VP and manager of the Fort Collins design team. The best mask designers can look at the polygons and instantaneously see how to shrink the design by rerouting circuits onto different layers. “It’s like you’ve finished a puzzle, and now you come and tell me I need to add 10 more pieces,” says Mellinger. “I’m like, ‘OK, let me see what kind of magic I can work.’?”
+“The product I’m on today has 10 billion transistors. That’s like, astounding. It’s incredible.”
+
+ 
+ 
+Intel’s chip designers are committed rationalists. Logic is literally what they do, every day. But if you get them talking about their work, they tend to fall back on language that borders on mystical. They use the word “magic” a lot.
+Gelsinger, the former CTO, says he found God a few months after starting at Intel in 1979. “I’ve always thought they went hand in hand,” he says, referring to semiconductor design and faith. Maria Lines, an Intel product manager, becomes emotional when she reflects on the past few years of her career. “The product that I was on several generations ago was about 2 billion transistors, and now the product I’m on today has 10 billion transistors,” she says. “That’s like, astounding. It’s incredible. It’s almost as magical as having a baby.”
+The moment of birth of a chip is known as first silicon. For the E5, first silicon happened in 2014. A team in Bangalore sent a 7.5-gigabyte file containing the full design to Intel’s mask shop in Santa Clara. The masks, 6-by-6-inch quartz plates that feature slightly blown-up versions of the transistors to be printed on each chip, were shipped the following week to an Intel fab near Phoenix that is an exact copy of the Oregon facility, and the machines began their slow, exacting work.
+
+Photographer: Justin Fantl
+After all of the round-the-clock scrambling, designers spent most of 2015 waiting for new prototypes to test. Each “rev,” or revision, takes three months or so to make. “It’s tedious,” says Stephen Smith, an Intel vice president and general manager of the data center engineering group. This, for all the intricacy of the circuits, is what makes microchip development among the highest-stakes bets in all of business. If you have more than a few excursions by the time you get to first silicon, there will be long delays and lost revenue. And with every generation of ever smaller transistor, the stakes get higher. Krzanich notes that it takes twice as long to fab a chip today as it did 10 years ago. “Making something smaller is a problem of physics, and there are always ways to solve that,” he says. “The trick is, can you deliver that part at half the cost?”
+The last step in the manufacturing process happens at assembly plants in Malaysia, China, and Vietnam. There, diamond saws cut the finished wafers into squares, which are then packaged and tested. In fall 2015, Intel shipped more than 100,000 chips, gratis, to the Super 7 and other big customers. Last-minute tweaks were made to the software that ships with each chip, and Intel spent six weeks or so doing final tests. Full manufacturing of the new E5 didn’t begin until earlier this year, in Arizona and at another identical fab in Leixlip, Ireland. Over the next 12 months, Intel will sell millions of them.
+If customers are lucky, they’ll probably never see those chips, much less consider how they were made. But if you opened up a new server, you’d eventually find a healthy chip, hot to the touch and sealed in ceramic packaging that bears a blue Intel logo. If you looked inside the housing, you’d find the 13 layers of interconnects, which to the naked eye look like nothing more than a dull metal plate. Many layers below would be the silicon, shimmering in blues and oranges and purples—a tiny, teeming maze of circuits that somehow makes our whole world work. It’s beautiful, you might think.
+Bohr, Intel’s lead manufacturing researcher, sometimes thinks the same thing. But as a scientist, he understands that what he sees aren’t really colors—they’re just light, reflected and refracted by the designs he and his colleagues have imprinted on the silicon. The individual transistors themselves are smaller than any wave of light. “When you get dimensions that small, color has no meaning,” he says, and then excuses himself.
+Close all those tabs. Open this email.
+Get Bloomberg's daily newsletter.
+
+Enter your email
+ Sign Up
+He’s late for a meeting to discuss Intel’s 5-nanometer chips, two generations from the current E5. Five nanometers is regarded by many in the chip business as the point after which it won’t be possible to scale down further, when Moore’s Law will finally fail. Intel hopes to use something called extreme ultraviolet light, a new technology that the industry has yet to harness effectively, to help get there. Beyond 5nm there will be new materials—some think that carbon nanotubes will replace silicon transistors—and perhaps entirely new technologies, such as neuromorphic computing (circuits designed to mimic the human brain) and quantum computing (individual atomic particles in lieu of transistors).
+“We’re narrowing down the options—a lot of wild and crazy ideas,” Bohr says. “Some of them just won’t work out.” But, he adds with utter certainty, one or two will.
+ 
+ 
+Intel Said to Get Chip Order From Apple
+Before it's here, it's on the Bloomberg Terminal. LEARN MORE
+Subscribe now to BloombergBusinessweek
+Global Tech Tech Intel Corp Work Oregon
+  by Taboola Sponsored Links From The Web

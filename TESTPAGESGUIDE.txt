@@ -1,0 +1,17 @@
+https://en.wikipedia.org/wiki/United_States
+words=36173
+
+https://en.wikipedia.org/wiki/Egypt
+words=21301
+
+http://www.bloomberg.com/news/articles/2016-06-09/how-intel-makes-a-chip
+words= 4329
+
+http://discovermagazine.com/2014/dec/17-this-quantum-life
+words=3915
+
+http://www.bbc.com/culture/story/20161031-what-makes-a-great-horror-movie-soundtrack
+words=1722
+
+https://www.fcbarcelona.com/club/history/card/2008-2016-the-best-years-in-our-history
+words=1632
